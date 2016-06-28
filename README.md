@@ -1,2 +1,2 @@
 # hello-world
-playground for learning babysteps of github
+This is my playground for learning babysteps of github.
